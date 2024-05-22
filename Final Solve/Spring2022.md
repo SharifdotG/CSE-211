@@ -91,7 +91,7 @@ WHERE T_ID BETWEEN '001' AND '275';
 d. Number of volunteers having last name as "Rahman".
 
 ```sql
-SELECT COUNT(*)
+SELECT COUNT(V_ID)
 FROM Volunteers
 WHERE V_lastName = 'Rahman';
 ```
@@ -135,9 +135,13 @@ b. IDs of volunteers having excellent computer skills and fluent English skills.
 SELECT V_ID
 FROM Volunteers
 WHERE V_ID IN (
+    SELECT T_ID
+    FROM Technical
+    WHERE Computer_Skills_Level = 'Excellent'
+) AND V_ID IN (
     SELECT H_ID
     FROM Hospitality
-    WHERE English_Skills_Level = 'Fluent' AND Communication_Skills_Level = 'Excellent'
+    WHERE English_Skills_Level = 'Fluent'
 );
 ```
 
