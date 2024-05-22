@@ -1,4 +1,4 @@
-# CSE 211 - Mid Solve - Spring 2023
+# CSE 211 - Mid Solve - Spring 2023 [Question: https://drive.google.com/file/d/1i4Zn1EfytzCPUsWrofOH6vvXJEalX1uW/view?usp=drive_link]
 
 ## 1. a) Discuss any two types of database users from below: a. Naive users b. Application programmers c. Sophisticated users d. Database administrators
 

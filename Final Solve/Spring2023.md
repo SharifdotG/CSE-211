@@ -1,4 +1,4 @@
-# CSE 211 - Final Solve - Spring 2023
+# CSE 211 - Final Solve - Spring 2023 [Question: https://drive.google.com/file/d/1i4Zn1EfytzCPUsWrofOH6vvXJEalX1uW/view?usp=drive_link]
 
 ## 1. a) Discuss database applications examples in different sectors, such as enterprise information, banking and finance, universities, airlines, telecommunications and navigation systems
 
@@ -247,7 +247,7 @@ To eliminate this, we need to split the table into multiple tables to remove the
 | N-45      | New York |
 | 1510      | Dhaka    |
 | 1200      | Rangpur |
-| 1515      | Chittagong |
+| 1515      | Dhaka |
 
 **Table 3: Student-Location:**
 
