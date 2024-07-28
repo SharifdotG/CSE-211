@@ -10,7 +10,7 @@ This course is designed to provide students with a comprehensive understanding o
 - **Course Code**: CSE 211
 - **Semester**: 2-2
 - **Credit Hours**: 3
-- **Prerequisite**: CSE 101, CSE 103 and CSE 105
+- **Prerequisite**: none
 - **Faculty**: [Nadeem Ahmed](https://cse.uap-bd.edu/faculty/faculty_details/34)
 
 ## Table of Contents
